@@ -1,10 +1,3 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-
-<h1>1025test01</h1>
-
-test
-
-123123123
-
-consol
+test1234456
